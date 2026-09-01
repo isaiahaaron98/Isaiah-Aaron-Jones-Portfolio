@@ -11,27 +11,20 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+My name is Isaiah Aaron Jones (he/him) and I am a second year Master of Arts Management student at Carnegie Mellon University. With a background as a musical theatre performer, I hope to merge my love of the performing arts with managerial skills to become an artist-focused theatre producer. I most recently served as the Education and Community Engagement apprentice with New York City Center, where I supported summer programming, evaluation, and strategic planning efforts with a focus on data analysis, program surveys, and field research. Currently, I am thrilled to serve as a teaching assistant for the course "Technologies Transforming the Arts" and a College of Fine Arts Fellow with CMU School of Drama's Center for New Work. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. How to create graphs and charts that are visually compelling and narratively structured 
+2. Basic data visualization and general design vocabulary 
+3. Techniques for dealing with large amounts of data
 
 # Portfolio
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
