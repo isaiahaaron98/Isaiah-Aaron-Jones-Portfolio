@@ -45,23 +45,33 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 - Question 1: What are some of the first things you noticed that work well?
+  
 "The use of color is good- there are no similar colors between the generations." Student, early-mid 20s
+
 "The colors feel intuitive almost... they really help to differentiate the different generations." Student, MSPPM program
 
 - Question 2: What would you change, update, reconfigure, or do completely different?
+  
 "I'd suggest having a subheader to provide more context." Student, prior experience in data visualization
+
 "Think about possibly adding the numbers from another year to show growth, not just from 2022." Student, early-mid 20s
 
 - Question 3: Is there a specific group that you believe this graph could be targeted for?
+  
 "I feel like policymakers makes the most sense given the information." Student, MSPPM program
+
 "This could be accessible to anyone, honestly." Student, prior experience in data visualization
 
 - Question 4: Is there anything that seems like is missing or unclear?
+  
 "I didn't understand why there were no data points for Gen-Z in 2014 or 2017- but realized it's probably due to how young Gen-Z was at that time." Student, early-mid 20s
+
 "The titles you chose are good, but again, I'd suggest adding a subheader to make everything clearer." Student, prior experience in data visualization
 
-- Question 5: Do you have a preference between the cluster bar chart and the slope graph? 
+- Question 5: Do you have a preference between the cluster bar chart and the slope graph?
+  
 "I think the slope graph is clearer and easier to understand." Student, MSPPM program
+
 "I agree- the slope graph is just nicer to look at overall." Student, early-mid 20s
 
 Synthesis: 
