@@ -1,7 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Gen Z Leads Rise in U.S. LGBT Identificaition Among Adults 
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
@@ -75,6 +74,13 @@ A pattern from the feedback that I noticed was that my usage of color was seen a
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
+<iframe 
+src="https://public.tableau.com/views/GenZLeadsRiseinU_S_LGBTIdentificationAmongAdults/Sheet2?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+
+My final solution is basically the Tableau version of my second sketch. The slope graph, as expected, turned out to be a very minimal and decluttered approach to the data. I ended up using the color blind color palette to ensure that the graph is accessible to everyone. Additionally, I added a dashed line at 7.2% to denote the 2022 national average. My subheader calls out how millennials and Gen-Z exceed the average, so it made sense to denote it within the visualization (with a gray line, as not to distract from the colors of the slopes). I also added the numbers from the 2014 statistics in order to show the trajectory (or plateau) compared to 2022. Finally, by adding a clearer title, it provides a central narrative so that the viewer is more easily able to obtain pertinent information. 
+
+Overall, this process was challenging yet rewarding. I really enjoyed having the option to pick which graph I wanted to redesign from a myriad of options. Few's critique method was also really insightful and pushed me to think critically on even the smallest of details in the data visualization. The sketch and test portions of the process were incredibly useful in the ideation process for the final design. In hindsight, I can't imagine going straight to Tableau from the original graph to create the redesign. Hearing from others and really taking into account their opinions on my ideas was integral to the entire process. Ultimately, I was able to explore Tableau a lot more. From adding the little circles to the ends of the slopes to adjusting the spacing between those little circles and the numbers for 2014 and 2022, I learned so many detailing features and generally strengthened my skills on the platform.  
+
 ## References
 
 Buchholz, Katharina, and Felix Richter. “Infographic: 7.2 Percent of U.S. Adults Identify as LGBT.” Statista Daily Data, February 28, 2023. https://www.statista.com/chart/18228/share-of-americans-identifying-as-lgbt/. 
@@ -82,5 +88,5 @@ Buchholz, Katharina, and Felix Richter. “Infographic: 7.2 Percent of U.S. Adul
 Jones, Jeffrey M. “U.S. LGBT Identification Steady at 7.2%.” Gallup.com, February 22, 2023. https://news.gallup.com/poll/470708/lgbt-    identification-steady.aspx. 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
+I used AI in the ideation process to refine my approach to the central narrative of my redesign. 
