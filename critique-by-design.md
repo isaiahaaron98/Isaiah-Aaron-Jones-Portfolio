@@ -29,44 +29,57 @@ In my redesign, I will try to focus on colors first and foremost. Having multipl
 
 ## Step three: Sketch a solution
 
+<img width="3024" height="3446" alt="IMG_3752" src="https://github.com/user-attachments/assets/745b0205-ee6f-4f3b-bb96-0f46e3768647" />
+
+Few's data visualization critique method made me want to focus harder on perceptibility and engagement. I really wanted to take the data and try to present it in a way that takes minimal effort to understand and learn from. In terms of aesthetics, although the original data visualization is overall enjoyable to look at by virtue of being rainbow colored, the colors themselves don't help in telling an intentional story through clear communication. For my redesign, I really wanted to focus on finding that central narrative and adjusting the colors to make them more accessible. 
+
+For my first sketch, I wanted to experiment with the original data visualization type: a cluster bar graph. I first changed the color palette with visual impairments in mind. Since I used red, I avoided green altogether. Then, I (attempted to) desaturate the 2014, 2017, and 2020 bars so that the 2022 would have more focus. I also added labels to the x and y axes and updated the title to narrow the narrative. An element I kept from the original data visualization was the percentages from the 2022 being above the individual bars. Again, that helps to draw focus to the 2022 data. 
+
+I then created a second sketch, this time showing the data through a slope chart. I quickly noticed that this helped immensely in decluttering the graph, making perceptibility much easier. This led to an increase in its ability to engage as well, as information will be able to be digested quicker (with the help of a new title to solidify the central narrative). I kept the axes labels and the key the same from sketch 1. By having two sketches, I was able to compare the two and really examine what worked and what didn't for both of them. 
 
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
 Results: 
 
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
+- Question 1: What are some of the first things you noticed that work well?
+"The use of color is good- there are no similar colors between the generations." Student, early-mid 20s
+"The colors feel intuitive almost... they really help to differentiate the different generations." Student, MSPPM program
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+- Question 2: What would you change, update, reconfigure, or do completely different?
+"I'd suggest having a subheader to provide more context." Student, prior experience in data visualization
+"Think about possibly adding the numbers from another year to show growth, not just from 2022." Student, early-mid 20s
+
+- Question 3: Is there a specific group that you believe this graph could be targeted for?
+"I feel like policymakers makes the most sense given the information." Student, MSPPM program
+"This could be accessible to anyone, honestly." Student, prior experience in data visualization
+
+- Question 4: Is there anything that seems like is missing or unclear?
+"I didn't understand why there were no data points for Gen-Z in 2014 or 2017- but realized it's probably due to how young Gen-Z was at that time." Student, early-mid 20s
+"The titles you chose are good, but again, I'd suggest adding a subheader to make everything clearer." Student, prior experience in data visualization
+
+- Question 5: Do you have a preference between the cluster bar chart and the slope graph? 
+"I think the slope graph is clearer and easier to understand." Student, MSPPM program
+"I agree- the slope graph is just nicer to look at overall." Student, early-mid 20s
 
 Synthesis: 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+
+A pattern from the feedback that I noticed was that my usage of color was seen as a positive attribute because none of the colors were too similar to each other. Another is that the slope graph was the clear winner when it came to perceptibility, as the cluster bar graph took longer to digest and interpret. What I learned from this feedback was that having two sketches was incredibly useful because it led to a stronger conversation among the group about what was working and what wasn't. In the future, I will make sure to continue to have at least two iterations for a data visualization design/redesign because it ultimately helps in figuring out the best course of action for the final design. For my redesign of this graph, I will certainly opt for the slope graph, include a subheading, add another data point in order to show trajectory, and work on the colors even more to ensure the colors are fully accessible, as I'll have more options on Tableau than in my colored pencil box. 
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+
+Buchholz, Katharina, and Felix Richter. “Infographic: 7.2 Percent of U.S. Adults Identify as LGBT.” Statista Daily Data, February 28, 2023. https://www.statista.com/chart/18228/share-of-americans-identifying-as-lgbt/. 
+
+Jones, Jeffrey M. “U.S. LGBT Identification Steady at 7.2%.” Gallup.com, February 22, 2023. https://news.gallup.com/poll/470708/lgbt-    identification-steady.aspx. 
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
