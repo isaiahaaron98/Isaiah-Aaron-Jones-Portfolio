@@ -8,6 +8,8 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
+<img width="505" height="505" alt="Screenshot 2026-09-17 at 8 21 01 AM" src="https://github.com/user-attachments/assets/7c9fe39c-3c92-4187-9c35-0be0bc453446" />
+
 https://makeovermonday.vercel.app/dataset/2024w23-lgbt-identification-in-us
 
 I selected this visualization because the subject matter is personal. As a member of the queer community, I believe these statistics are important and should be viewed by everyone- especially for those who are struggling to be who they really are in the world. Additionally, since this dataset stops at 2022, I was curious about where those numbers lie now and will definitely do further research in the future. I also noticed that the  dataset used for this visualization was quite small. This intrigued me because I knew I could experiment more freely and easily in Tableau with less data to manipulate (at least at this phase in my Tableau experience). Though there were many elements of this visualization that drew me in, I couldn't help but notice the potential it had on various levels. I could tell that this graph needed a stronger central message to resonate with viewers better, and would benefit from a new visualization type completely. Above all, my connection with the data itself is what led me to selecting this data visualization. 
