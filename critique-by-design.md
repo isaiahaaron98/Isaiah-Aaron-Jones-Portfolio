@@ -34,13 +34,11 @@ In my redesign, I will try to focus on colors first and foremost. Having multipl
 
 Few's data visualization critique method made me want to focus harder on perceptibility and engagement. I really wanted to take the data and try to present it in a way that takes minimal effort to understand and learn from. In terms of aesthetics, although the original data visualization is overall enjoyable to look at by virtue of being rainbow colored, the colors themselves don't help in telling an intentional story through clear communication. For my redesign, I really wanted to focus on finding that central narrative and adjusting the colors to make them more accessible. 
 
-For my first sketch, I wanted to experiment with the original data visualization type: a cluster bar graph. I first changed the color palette with visual impairments in mind. Since I used red, I avoided green altogether. Then, I (attempted to) desaturate the 2014, 2017, and 2020 bars so that the 2022 would have more focus. I also added labels to the x and y axes and updated the title to narrow the narrative. An element I kept from the original data visualization was the percentages from the 2022 being above the individual bars. Again, that helps to draw focus to the 2022 data. 
+For my first sketch, I wanted to experiment with the original data visualization type: a cluster bar graph. I first changed the color palette with visual impairments in mind. Since I used red, I avoided green altogether. Then, I (attempted to) desaturate the 2014, 2017, and 2020 bars so that the 2022 bars would have more focus. I also added labels to the x and y axes and updated the title to narrow the narrative. An element I kept from the original data visualization was having the 2022 percentages above the individual bars. Again, that helps to draw focus to the 2022 data. 
 
 I then created a second sketch, this time showing the data through a slope chart. I quickly noticed that this helped immensely in decluttering the graph, making perceptibility much easier. This led to an increase in its ability to engage as well, as information will be able to be digested quicker (with the help of a new title to solidify the central narrative). I kept the axes labels and the key the same from sketch 1. By having two sketches, I was able to compare the two and really examine what worked and what didn't for both of them. 
 
 ## Step four: Test the solution
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
 Results: 
 
