@@ -9,6 +9,13 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
+https://makeovermonday.vercel.app/dataset/2024w23-lgbt-identification-in-us
+
+I selected this visualization because the subject matter is personal. As a member of the queer community, I believe these statistics are important and should be viewed by everyone- especially for those who are struggling to be who they really are in the world. Additionally, since this dataset stops at 2022, I was curious about where those numbers lie now and will definitely do further research in the future. I also noticed that the  dataset used for this visualization was quite small. This intrigued me because I knew I could experiment more freely and easily in Tableau with less data to manipulate (at least at this phase in my Tableau experience). Though there were many elements of this visualization that drew me in, I couldn't help but notice the potential it had on various levels. I could tell that this graph needed a stronger central message to resonate with viewers better, and would benefit from a new visualization type completely. Above all, my connection with the data itself is what led me to selecting this data visualization. 
+
+Data Source: 
+Source Article: 
+
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 ## Step two: the critique
