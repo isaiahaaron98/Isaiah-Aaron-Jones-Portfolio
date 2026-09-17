@@ -78,8 +78,6 @@ A pattern from the feedback that I noticed was that my usage of color was seen a
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
 <iframe 
 src="https://public.tableau.com/views/GenZLeadsRiseinU_S_LGBTIdentificationAmongAdults/Sheet2?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
