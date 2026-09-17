@@ -74,8 +74,6 @@ Results:
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
 A pattern from the feedback that I noticed was that my usage of color was seen as a positive attribute because none of the colors were too similar to each other. Another is that the slope graph was the clear winner when it came to perceptibility, as the cluster bar graph took longer to digest and interpret. What I learned from this feedback was that having two sketches was incredibly useful because it led to a stronger conversation among the group about what was working and what wasn't. In the future, I will make sure to continue to have at least two iterations for a data visualization design/redesign because it ultimately helps in figuring out the best course of action for the final design. For my redesign of this graph, I will certainly opt for the slope graph, include a subheading, add another data point in order to show trajectory, and work on the colors even more to ensure the colors are fully accessible, as I'll have more options on Tableau than in my colored pencil box. 
 
 ## Step five: build the solution
