@@ -29,7 +29,7 @@ In my redesign, I will try to focus on colors first and foremost. Having multipl
 
 ## Step three: Sketch a solution
 
-<img width="3024" height="3446" alt="IMG_3752" src="https://github.com/user-attachments/assets/745b0205-ee6f-4f3b-bb96-0f46e3768647" />
+<img width="3024" height="3446" alt="Convert to PNG project - September 16, 2026 at 23 25 52" src="https://github.com/user-attachments/assets/784bf8cc-f523-4c49-afff-db97633c1ae2" />
 
 Few's data visualization critique method made me want to focus harder on perceptibility and engagement. I really wanted to take the data and try to present it in a way that takes minimal effort to understand and learn from. In terms of aesthetics, although the original data visualization is overall enjoyable to look at by virtue of being rainbow colored, the colors themselves don't help in telling an intentional story through clear communication. For my redesign, I really wanted to focus on finding that central narrative and adjusting the colors to make them more accessible. 
 
