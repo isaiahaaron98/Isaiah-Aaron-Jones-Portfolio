@@ -42,8 +42,6 @@ I then created a second sketch, this time showing the data through a slope chart
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
 - Question 1: What are some of the first things you noticed that work well?
   
 "The use of color is good- there are no similar colors between the generations." Student, early-mid 20s
