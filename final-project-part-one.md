@@ -16,7 +16,7 @@ Resolution-  Broadway investors and philanthropic Broadway lovers must recognize
 
 ## Initial sketches
 
-<img width="4284" height="5192" alt="IMG_3771" src="https://github.com/user-attachments/assets/0c9570b5-e137-4c1b-b95f-e45bf17239dc" />
+<img style="width: 400px; height: auto;" alt="IMG_3771" src="https://github.com/user-attachments/assets/0c9570b5-e137-4c1b-b95f-e45bf17239dc" />
 
 <img width="4090" height="4801" alt="IMG_3772" src="https://github.com/user-attachments/assets/7b78d784-19cb-4923-a375-9b511e8d5906" />
 
