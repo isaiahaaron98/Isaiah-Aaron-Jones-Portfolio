@@ -18,8 +18,7 @@ Resolution-  Broadway investors and philanthropic Broadway lovers must recognize
 
 <img style="width: 400px; height: auto;" alt="IMG_3771" src="https://github.com/user-attachments/assets/0c9570b5-e137-4c1b-b95f-e45bf17239dc" />
 
-<img width="4090" height="4801" alt="IMG_3772" src="https://github.com/user-attachments/assets/7b78d784-19cb-4923-a375-9b511e8d5906" />
-
+<img style="width: 400px; height: auto;" alt="IMG_3772" src="https://github.com/user-attachments/assets/7b78d784-19cb-4923-a375-9b511e8d5906" />
 # The data
 
 The data I will be using for this project comes from 2024 and 2025 IRS Forms 990 from 5 prominent non-profit theatre organizations (Goodman Theatre- Chicago, IL, Guthrie Theater- Minneapolis, MN, Steppenwolf Theatre Co.- Chicago, IL, Alley Theatre- Houston, TX, and The Public Theatre- New York, NY). I obtained these forms from Candid.com, a website that serves as a publicly accessible central database for non-profit organizations’ Forms 990, among other useful information. Since these forms are quite extensive in the amount of information they possess, I have elected to extract the following information from each for both 2024 and 2025: total expenses, revenue less expenses, ticket sales, total contributions, government grants, and all other contributions. I have created the spreadsheet in Excel and converted it into a csv file. These numbers not only help provide a holistic view of the full narrative I am trying to get across in this final project, but also get to the root of the conflict I am hoping to uncover. 
