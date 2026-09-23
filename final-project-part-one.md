@@ -1,42 +1,47 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+The Broadway industry, centered in Manhattan, is a multi-billion dollar business that welcomes millions of audience members each year. Whether you are a theatre connoisseur who knows who won the Tony Award for Best Musical from the last 20 years, or a novice that is being dragged to a production by a loved one, there is a certain expectation that when you enter a Broadway theatre, you will see world-class entertainment. Outside of the performances one sees on the stage, the content of the plays or musicals themselves are expected to not only provide (passive or active) amusement, but also possess a certain level of originality, nuance, captivation, and in many cases, spectacle. By virtue of it being a Broadway production, and every expectation that comes with that, there are many steps that a production must take before it is considered “ready” for the Great White Way. Typically, a piece is commissioned by a non-profit theatre organization to be workshopped (and ultimately produced there) before it ever makes it to Manhattan. This process allows for the artists involved to gauge audience reactions to the play or musical, adjust parts that aren’t resonating, and try again the next night. Though strenuous, it is a necessary procedure within the Broadway industry that provides a greater sense of how a production will be perceived (and how successful it will be) once it reaches much tougher Broadway audiences and critics. Many audience members, however, have no idea this step occurs; they believe a Broadway production was merely written, rehearsed, and produced directly to Broadway. 
+The reality though is that a select number of prominent non-profit theatre organizations bear the responsibility (mainly financial and artistic) of mounting these productions first before there is even a conversation around a Broadway transfer. Commercial producers, simply put, will not invest millions of dollars into a show that flopped with audiences elsewhere. They rely heavily on these organizations to be the incubators for the playwrights, composers, lyricists, etc. of new works so that they can edit their work in real time as the production is being seen by audiences. In other words, the Broadway industry does not exist without this crucial component of the production process. As one can imagine, taking this type of risk on a production that has never been tested out on audiences before is very expensive- and very scary. Revenue from ticket sales alone are not strong enough across the board to sustain this process. In this final project, I would like to show how 5 of the top non-profit theatre organizations, who bear almost all developmental risks, and with many Broadway transfers under their belt (Goodman Theatre, Guthrie Theater, Steppenwolf Theatre Co., Alley Theatre, and The Public Theatre) cannot survive only local ticket sales. Charitable contributions to these organizations directly benefit the Broadway industry as a whole. Without substantial contributed revenue, Broadway will no longer have a conveyor belt of options for shows to produce, ultimately ending Broadway as we know it. This, in turn, will lead to Broadway only producing revivals and jukebox musicals, and although those productions can be very exciting sometimes, they generally don’t push the boundary of theatre, make room for new voices, or mirror modern society the way new works can. Broadway investors and philanthropic theatre lovers must recognize that funding these non-profit organizations directly funds the future of Broadway. In my final project, highlighting ticket sales against total expenses in particular will act as my foremost call to action for those who want Broadway to thrive and to recognize that long-term sustainability for the commercial side of the industry means investing in these non-profit organizations first. 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Structure: 
 
-Text here...
+Setup- The Broadway industry is a multi-billion dollar business that welcomes millions of audience members each year. It is embedded within the American cultural zeitgeist and is generally seen as a “constant” in the entertainment industry at large, similar to Hollywood for the film and television industry. Though people of varying degrees of interest go to see a Broadway production (from superfans to neophytes), there is a certain level of expectation that, when they enter a Broadway theatre, they will be holistically entertained (from the performers to the content of the piece itself) and pleased with their decision to see that play or musical. After all, Broadway is known worldwide for its top-tier execution of work in theatre and live performing arts. 
+
+Conflict- Productions don’t simply “go to Broadway.” There is an extensive process a production goes through before it is considered ready to be produced at such a high level. Generally, it is the duty of a small number of non-profit theatre organizations to bear the artistic, and mainly financial, responsibility of mounting these productions first before there is even a conversation around a Broadway transfer. Plainly put, the Broadway industry does not exist without this crucial component of the production process. However, earned revenue from ticket sales are not strong enough across the board to sustain this process at these organizations. Without a substantial amount of contributed revenue to these theatre incubators, the Broadway industry as a whole will suffer, stunting opportunities for up and coming playwrights, composers, lyricists, etc. and the artistic process that helps hold a mirror to modern society’s most hard hitting issues.
+
+Resolution-  Broadway investors and philanthropic Broadway lovers must recognize that funding these non-profit organizations directly funds the future of Broadway. If they want Broadway to thrive (and for producers specifically, if they want to continue to have substantial ROIs), they must recognize that long-term sustainability for the industry means investing in these non-profit organizations first. 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<img width="4284" height="5192" alt="IMG_3771" src="https://github.com/user-attachments/assets/0c9570b5-e137-4c1b-b95f-e45bf17239dc" />
+
+<img width="4090" height="4801" alt="IMG_3772" src="https://github.com/user-attachments/assets/7b78d784-19cb-4923-a375-9b511e8d5906" />
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+The data I will be using for this project comes from 2024 and 2025 IRS Forms 990 from 5 prominent non-profit theatre organizations (Goodman Theatre- Chicago, IL, Guthrie Theater- Minneapolis, MN, Steppenwolf Theatre Co.- Chicago, IL, Alley Theatre- Houston, TX, and The Public Theatre- New York, NY). I obtained these forms from Candid.com, a website that serves as a publicly accessible central database for non-profit organizations’ Forms 990, among other useful information. Since these forms are quite extensive in the amount of information they possess, I have elected to extract the following information from each for both 2024 and 2025: total expenses, revenue less expenses, ticket sales, total contributions, government grants, and all other contributions. I have created the spreadsheet in Excel and converted it into a csv file. These numbers not only help provide a holistic view of the full narrative I am trying to get across in this final project, but also get to the root of the conflict I am hoping to uncover. 
+By examining ticket sales directly with total expenses, it highlights how small of a percentage ticket sales are as earned revenue in the grand scheme of how much money it takes to operate these organizations. Additionally, by including revenue less expenses, it shows that these organizations aren’t running off of net profits alone. By highlighting the amount of money that these organizations take in as contributed revenue, it exemplifies how heavily reliant they are on philanthropy in order to ultimately keep the Broadway industry afloat. Though it isn’t their main goal or organizational mission to fuel Broadway, the reality is that it is an underlying expectation that they must adhere to and meet as prominent non-profit theatre institutions. Although all of this data may not be used in the final visualization, having all of it together and easily accessible will help guide me in the creation of the overall project. For instance, the visualization itself may only end up being a comparison of ticket sales and total expenses for 2025, but I may include a callout statistic or have other supplemental data integrated into the final visualization. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+https://drive.google.com/drive/folders/1ptbvpqcHGfFlHt2DGWGgUNiamrKnqHq3?usp=drive_link
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+To complete this final project, I plan on creating the visualization(s) on Tableau. Since taking this course, I feel a greater sense of comfort around this platform, and thus will be utilizing it for the purposes of this project. Additionally, I will be using Shorthand to create the necessary storytelling website. As we will be shown how to navigate this specific platform in class, I feel much better using it for the final project as opposed to another platform. I don’t anticipate including any additional materials, i.e. physical or more immersive.  
 
 ## References
-_List any references you used here._
+
+“Alley Theatre: Ein 74-1143076.” Candid. Accessed September 23, 2026. https://app.candid.org/profile/8108316/alley-theatre-74-1143076?activeTab=7. 
+
+“Chicago Theatre Group Inc: Ein 36-2896025.” Candid. Accessed September 23, 2026. https://app.candid.org/profile/7457677/chicago-theatre-group-inc-36-2896025?activeTab=7. 
+
+“Guthrie Theater Foundation: Ein 41-0854160.” Candid. Accessed September 23, 2026. https://app.candid.org/profile/7593146/guthrie-theater-foundation-41-0854160?activeTab=7. 
+
+“New York Shakespeare Festival: Ein 13-1844852.” Candid. Accessed September 23, 2026. https://app.candid.org/profile/6908136/new-york-shakespeare-festival-13-1844852?activeTab=7. 
+
+“Steppenwolf Theatre Company: Ein 51-0149370.” Candid. Accessed September 23, 2026. https://app.candid.org/profile/7732901/steppenwolf-theatre-company-51-0149370?activeTab=7. 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used AI in the initial ideation process in order to hone in more on the narrative I wanted to tell with the data I compiled. 
