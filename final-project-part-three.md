@@ -32,7 +32,7 @@ For the Lempicka grosses graph, I went with a standard line graph because it mak
 
 ## References
 
-All of my references have been listed at the bottom of my story on Shorthand. Additionally, I have includes GoogleDrive links to the data I self compiled to create my data visualizations. For the "Total Expenses" graph, I included the publicly accessible 2020 and 2025 Forms 990 of the 4 LORT theatres, which I obtained from Candid.com. All images included in my story are free-to-use from either Pexels, Unsplash, or Wikimedia Commons; I have  denoted the photographer and source underneath each image.  
+All of my references have been listed at the bottom of my story on Shorthand. Additionally, I have included Google Drive links to the data I self compiled to create my data visualizations. For the "Total Expenses" graph, I included the publicly accessible 2020 and 2025 Forms 990 of the 4 LORT theatres, which I obtained from Candid.com. All images included in my story are free-to-use from either Pexels, Unsplash, or Wikimedia Commons; I have  denoted the photographer and source underneath each image.  
 
 ## AI acknowledgements
 
