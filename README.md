@@ -26,7 +26,8 @@ src="https://public.tableau.com/views/U_S_ElectionYearsSeeIncreaseinG7NationalDe
 Linked above: `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+Is Broadway producing still worth it? The production process is incredibly expensive and lengthy, and right now, it is not a sustainable model for the art form or the industry for both the non-profit and commercial side. My proposal is a potential way to alleviate financial stress and streamline the production process so that Broadway can continue to be a dominant force in the greater entertainment industry. 
+
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
