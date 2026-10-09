@@ -30,7 +30,7 @@ Is Broadway producing still worth it? The production process is incredibly expen
 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ---
 
