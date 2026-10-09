@@ -26,7 +26,7 @@ src="https://public.tableau.com/views/U_S_ElectionYearsSeeIncreaseinG7NationalDe
 Linked above: `critique-by-design.md`.  
 
 ## Final project
-Is Broadway producing still worth it? The production process is incredibly expensive and lengthy, and right now, it is not a sustainable model for the art form or the industry for both the non-profit and commercial side. My proposal is a potential way to alleviate financial stress and streamline the production process so that Broadway can continue to be a dominant force in the greater entertainment industry. 
+Is Broadway producing still worth it? The production process is incredibly expensive and lengthy, and right now, it is not a sustainable model for the art form or the industry for both the non-profit and commercial side. My proposal is a way to alleviate financial stress on non-profits while providing producers with a better sense of a production's commercial sustainability before it reaches a Broadway stage. 
 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
