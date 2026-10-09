@@ -1,10 +1,10 @@
 | [home page](https://isaiahaaron98.github.io/Isaiah-Aaron-Jones-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at Carnegie Mellon University! Here, you will be able to explore what I've learned and the projects I created along the way. 
 
 # About me
-My name is Isaiah Aaron Jones (he/him) and I am a second year Master of Arts Management student at Carnegie Mellon University. With a background as a musical theatre performer, I hope to merge my love of the performing arts with managerial skills to become an artist-focused theatre producer. I most recently served as the Education and Community Engagement apprentice with New York City Center, where I supported summer programming, evaluation, and strategic planning efforts with a focus on data analysis, program surveys, and field research. Currently, I am thrilled to serve as a teaching assistant for the course "Technologies Transforming the Arts" and a College of Fine Arts Fellow with CMU School of Drama's Center for New Work. 
+My name is Isaiah Aaron Jones (he/him) and I am a second year Master of Arts Management student. With a background as a musical theatre performer, I hope to merge my love of the performing arts with managerial skills to become an artist-focused theatre producer. I most recently served as the Education and Community Engagement apprentice with New York City Center, where I supported summer programming, evaluation, and strategic planning efforts with a focus on data analysis, program surveys, and field research. Currently, I am thrilled to serve as a teaching assistant for the course "Technologies Transforming the Arts" and a College of Fine Arts Fellow with CMU School of Drama's Center for New Work. 
 
 # What I hope to learn
 
